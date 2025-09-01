@@ -59,5 +59,6 @@ Porque inclusão também é digital. 💙
 
 ## 👥 Autoria
 Lucas Silva de Oliveira
+
 Projeto desenvolvido como parte da disciplina **Sustentabilidade, Inclusão e Impacto Social**.  
  
